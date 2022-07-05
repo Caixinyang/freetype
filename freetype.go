@@ -13,7 +13,7 @@ import (
 	"image"
 	"image/draw"
 
-	"github.com/golang/freetype/raster"
+	"github.com/Caixinyang/freetype/raster"
 	"github.com/Caixinyang/freetype/truetype"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
